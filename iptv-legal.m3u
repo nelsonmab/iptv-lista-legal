@@ -1,55 +1,31 @@
 #EXTM3U
 
 ##########################
-# Canais Brasileiros
+# Canais Brasileiros Gratuitos
 ##########################
-#EXTINF:-1 tvg-id="globo" tvg-name="Globo" group-title="Brasil",Globo
-https://streaming.globo.com/live.m3u8
-
-#EXTINF:-1 tvg-id="sbt" tvg-name="SBT" group-title="Brasil",SBT
-https://streaming.sbt.com.br/live.m3u8
-
-#EXTINF:-1 tvg-id="record" tvg-name="Record" group-title="Brasil",Record
-https://streaming.record.com.br/live.m3u8
-
-#EXTINF:-1 tvg-id="band" tvg-name="Band" group-title="Brasil",Band
-https://streaming.band.com.br/live.m3u8
-
-#EXTINF:-1 tvg-id="rede_tv" tvg-name="Rede TV" group-title="Brasil",Rede TV
-https://www.redetv.com.br/live.m3u8
-
 #EXTINF:-1 tvg-id="tv_cultura" tvg-name="TV Cultura" group-title="Brasil",TV Cultura
 https://tvcultura.com.br/live.m3u8
 
-##########################
-# Canais Internacionais
-##########################
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" group-title="Mundo",CNN
-https://streaming.cnn.com/live.m3u8
+#EXTINF:-1 tvg-id="tv_brasil" tvg-name="TV Brasil" group-title="Brasil",TV Brasil
+https://tvbrasil.ebc.com.br/live.m3u8
 
-#EXTINF:-1 tvg-id="bbc" tvg-name="BBC World" group-title="Mundo",BBC World
-https://streaming.bbc.com/live.m3u8
+##########################
+# Canais Internacionais Gratuitos
+##########################
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" group-title="Mundo",Euronews
+https://live.euronews.com/live.m3u8
 
 #EXTINF:-1 tvg-id="aljazeera" tvg-name="Al Jazeera" group-title="Mundo",Al Jazeera
 https://www.aljazeera.com/live/
 
-#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" group-title="Mundo",Euronews
-https://www.euronews.com/live
-
 ##########################
-# Canais de Esportes
+# Canais de Esportes Gratuitos
 ##########################
 #EXTINF:-1 tvg-id="pluto_sports" tvg-name="Pluto TV Sports" group-title="Esportes",Pluto TV Sports
 https://pluto.tv/live-tv/sports.m3u8
 
-#EXTINF:-1 tvg-id="espn" tvg-name="ESPN 1" group-title="Esportes",ESPN 1
-https://espn.com/live1.m3u8
-
-#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" group-title="Esportes",ESPN 2
-https://espn.com/live2.m3u8
-
-#EXTINF:-1 tvg-id="fox_sports" tvg-name="Fox Sports" group-title="Esportes",Fox Sports
-https://foxsports.com/live.m3u8
+#EXTINF:-1 tvg-id="xumo_sports" tvg-name="Xumo Sports" group-title="Esportes",Xumo Sports
+https://www.xumo.tv/channels/stream/sports
 
 ##########################
 # Filmes Gratuitos
@@ -57,14 +33,8 @@ https://foxsports.com/live.m3u8
 #EXTINF:-1 tvg-id="pluto_movies" tvg-name="Pluto TV Filmes" group-title="Filmes",Pluto TV Filmes
 https://pluto.tv/live-tv/movies.m3u8
 
-#EXTINF:-1 tvg-id="tubi_movies" tvg-name="Tubi Filmes" group-title="Filmes",Tubi Filmes
-https://tubitv.com/stream/movies.m3u8
-
-#EXTINF:-1 tvg-id="rakuten_movies" tvg-name="Rakuten Filmes" group-title="Filmes",Rakuten Filmes
-https://rakuten.tv/free/movies.m3u8
-
-#EXTINF:-1 tvg-id="youtube_movies" tvg-name="YouTube Filmes" group-title="Filmes",YouTube Filmes
-https://youtube.com/channel/UCqZQlzSHbVJrwrn6oa5v7Kw/live
+#EXTINF:-1 tvg-id="xumo_movies" tvg-name="Xumo Filmes" group-title="Filmes",Xumo Filmes
+https://www.xumo.tv/channels/stream/movies
 
 ##########################
 # Séries Gratuitas
@@ -72,23 +42,14 @@ https://youtube.com/channel/UCqZQlzSHbVJrwrn6oa5v7Kw/live
 #EXTINF:-1 tvg-id="pluto_series" tvg-name="Pluto TV Séries" group-title="Séries",Pluto TV Séries
 https://pluto.tv/live-tv/series.m3u8
 
-#EXTINF:-1 tvg-id="tubi_series" tvg-name="Tubi Séries" group-title="Séries",Tubi Séries
-https://tubitv.com/stream/series.m3u8
-
-#EXTINF:-1 tvg-id="rakuten_series" tvg-name="Rakuten Séries" group-title="Séries",Rakuten Séries
-https://rakuten.tv/free/series.m3u8
-
-#EXTINF:-1 tvg-id="youtube_series" tvg-name="YouTube Séries" group-title="Séries",YouTube Séries
-https://youtube.com/channel/UClV0W6vZMXaHZQfN7FOb69g/live
+#EXTINF:-1 tvg-id="xumo_series" tvg-name="Xumo Séries" group-title="Séries",Xumo Séries
+https://www.xumo.tv/channels/stream/series
 
 ##########################
-# Animes Legais
+# Animes Gratuitos
 ##########################
-#EXTINF:-1 tvg-id="crunchyroll" tvg-name="Crunchyroll Animes" group-title="Animes",Crunchyroll
-https://www.crunchyroll.com/free/anime.m3u8
-
 #EXTINF:-1 tvg-id="pluto_anime" tvg-name="Pluto TV Animes" group-title="Animes",Pluto TV Animes
 https://pluto.tv/live-tv/anime.m3u8
 
-#EXTINF:-1 tvg-id="tubi_anime" tvg-name="Tubi Animes" group-title="Animes",Tubi Animes
-https://tubitv.com/stream/anime.m3u8
+#EXTINF:-1 tvg-id="crunchyroll_free" tvg-name="Crunchyroll Free" group-title="Animes",Crunchyroll Free
+https://www.crunchyroll.com/free/anime
