@@ -65,6 +65,38 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f170f01b898
 #EXTINF:-1 tvg-id="plex_moviesphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/..." group-title="Filmes e Séries", MOVIESPHERE
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves 24H" tvg-logo="http://listaccess.me/Logo/Chaves.png" group-title="Canais: 24hrs",Chaves 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7559
+
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin 24H" tvg-logo="http://listaccess.me/Logo/Chapolin.png" group-title="Canais: 24hrs",Chapolin 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7560
+
+#EXTINF:-1 tvg-id="" tvg-name="Pica Pau 24H" tvg-logo="http://listaccess.me/Logo/PicaPau.png" group-title="Canais: Desenhos",Pica Pau 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7561
+
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry 24H" tvg-logo="http://listaccess.me/Logo/TomJerry.png" group-title="Canais: Desenhos",Tom e Jerry 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7562
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons 24H" tvg-logo="http://listaccess.me/Logo/Simpsons.png" group-title="Canais: Séries",Os Simpsons 24H
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7563
+
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://listaccess.me/Logo/DragonBall.png" group-title="Canais: Animes",Dragon Ball Z
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7564
+
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos" tvg-logo="http://listaccess.me/Logo/FastFurious.png" group-title="Filmes: Ação",Velozes e Furiosos
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7565
+
+#EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://listaccess.me/Logo/HarryPotter.png" group-title="Filmes: Fantasia",Harry Potter
+http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7566
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Brazil",BR: LIGA FUTSAL HD
 http://tooontv.com:999/live/ere3444h/agape/199106.ts
 #EXTINF:-1 group-title="Brazil",BR: TNT Sports Estadio 6 HD
@@ -3224,4 +3256,5 @@ http://iron.cshunter.site:80/Formigatv/63716693/12945368
 http://iron.cshunter.site:80/Formigatv/63716693/12945369
 #EXTINF:-1 tvg-id="" tvg-name="• ESPN 1 SD²" tvg-logo="https://i.imgur.com/xlzimsu.png" group-title="ESPN",• ESPN 1 SD²
 http://iron.cshunter.site:80/Formigatv/63716693/12945370
+
 
