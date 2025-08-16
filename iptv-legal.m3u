@@ -1,9 +1,6 @@
 # EXTM3U
 # EXTINF : -1  tvg-id = " "  tvg-name = " BigBrotherBrasil 2018 "  tvg-logo = " http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png "  group-title = " VARIEDADES " , BigBrotherBrasil 2018
 http://painel.iptvmove.com:25461/live/danga07/1963/1116.m3u8
-#EXTINF:-1, Cinemax
-https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/2cf054ed54f673332da76ff0f5102c52.m3u8
-
 # EXTINF : -1  tvg-id = " "  tvg-name = " BigBrotherBrasil 2018 [Alter] "  tvg-logo = " http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png "  group-title = " VARIEDADES " , BigBrotherBrasil 2018 [Alter]
 http://painel.iptvmove.com:25461/live/danga07/1963/3128.m3u8
 # EXTINF : -1  tvg-id = " A&E [Brasil] "  tvg-name = " A&E "  tvg-logo = " http://i.imgur.com/7NKeRuh.png "  group-title = " DOCUMENTARIOS " , A&E
@@ -6568,6 +6565,7 @@ http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/5003.mp4
 http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/4620.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ZUMBILÂNDIA (2009)" tvg-logo="http://1.bp.blogspot.com/-JnErnJeds7Q/UaKVXmoX9rI/AAAAAAACQk/lZCgA0rpEzo/s300/Zumbil%25C3%25A2ndia-P%25C3%25B4ster.jpg" group-title="On Demand: Degustação",ZUMBILÂNDIA (2009)
 http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/3662.mp4
+
 
 
 
