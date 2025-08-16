@@ -6,6 +6,9 @@
 #EXTINF:-1 tvg-id="tv_cultura" tvg-name="TV Cultura" group-title="Brasil",TV Cultura
 https://tvcultura.com.br/live.m3u8
 
+#EXTINF:-1 tvg-id="spn" tvg-name="spn" group-title="Brasil",TV Cultura
+https://embedtv-2.icu/espn
+
 #EXTINF:-1 tvg-id="tv_brasil" tvg-name="TV Brasil" group-title="Brasil",TV Brasil
 https://tvbrasil.ebc.com.br/live.m3u8
 
@@ -53,3 +56,4 @@ https://pluto.tv/live-tv/anime.m3u8
 
 #EXTINF:-1 tvg-id="crunchyroll_free" tvg-name="Crunchyroll Free" group-title="Animes",Crunchyroll Free
 https://www.crunchyroll.com/free/anime
+
