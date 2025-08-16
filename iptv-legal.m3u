@@ -41,6 +41,31 @@ https://dmxleo.dailymotion.com/cdn/manifest/video/k1BcMSzAxoLS3IDCa0i.m3u8
 #EXTINF:-1 tvg-id="plex_masterchef" tvg-logo="", MasterChef Brasil
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8
 
+#EXTINF:-1 tvg-id="plex_runtime_crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53b50d84-3f88-4d5b-bee1-1190f89ca5d3/Runtime_BR_Crime_Dark_Mode_Logordx.png" group-title="Filmes e Séries", Runtime Crime - À Procura (20:05 - 22:13)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683f650702b9db9f8177250.m3u8
+
+#EXTINF:-1 tvg-id="plex_runtime_crime" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53b50d84-3f88-4d5b-bee1-1190f89ca5d3/Runtime_BR_Crime_Dark_Mode_Logordx.png" group-title="Filmes e Séries", Runtime Crime - Everly (22:13 - 00:00)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683f650702b9db9f8177250.m3u8
+
+#EXTINF:-1 tvg-id="plex_cinespanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1055c8dd-6feb-444d-909b-d4e94d21f927/CinEspanto_BR_Dark_Mode_Logordx.png" group-title="Filmes e Séries", CinEspanto - História de um Assassinato (20:36 - 21:57)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683faa4cd6f1d394094114b.m3u8
+
+#EXTINF:-1 tvg-id="plex_cinespanto" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1055c8dd-6feb-444d-909b-d4e94d21f927/CinEspanto_BR_Dark_Mode_Logordx.png" group-title="Filmes e Séries", CinEspanto - Outro Filme (21:57 - 23:00)
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6683faa4cd6f1d394094114b.m3u8
+
+#EXTINF:-1 tvg-id="plex_tennis" tvg-logo="https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png" group-title="Esportes", Tennis+
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6761f91555e174e95ccc4e4c.m3u8
+
+#EXTINF:-1 tvg-id="plex_usa_today" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" group-title="Notícias", USA TODAY
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-60df3e18541143002f3b8607.m3u8
+
+#EXTINF:-1 tvg-id="plex_yahoo_finance" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" group-title="Notícias", Yahoo Finance
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-5f170f01b898490041b49dd1.m3u8
+
+#EXTINF:-1 tvg-id="plex_moviesphere" tvg-logo="https://provider-static.plex.tv/epg/cms/production/..." group-title="Filmes e Séries", MOVIESPHERE
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8
+
+
 #EXTINF:-1 tvg-id="max2" tvg-logo="https://embedtv.digital/assets/images/max.png", Max 2
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/14500c4dbf6c91a9f325aa982102a94e.m3u8
 # EXTINF : -1  tvg-id = " "  tvg-name = " BigBrotherBrasil 2018 [Alter] "  tvg-logo = " http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png "  group-title = " VARIEDADES " , BigBrotherBrasil 2018 [Alter]
@@ -6607,6 +6632,7 @@ http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/5003.mp4
 http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/4620.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ZUMBILÂNDIA (2009)" tvg-logo="http://1.bp.blogspot.com/-JnErnJeds7Q/UaKVXmoX9rI/AAAAAAACQk/lZCgA0rpEzo/s300/Zumbil%25C3%25A2ndia-P%25C3%25B4ster.jpg" group-title="On Demand: Degustação",ZUMBILÂNDIA (2009)
 http://giantofthefuture.gleeze.com:25461/movie/colepty1679/Hbplloxye/3662.mp4
+
 
 
 
