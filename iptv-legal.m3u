@@ -22,7 +22,19 @@ https://ythls.onrender.com/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 https://servilive.com:3126/live/tele2000live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",00s Replay
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us",Bloomberg TV US (1080p)
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.br",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sahara24.mr",Sahara 24 (1080p)
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+#EXTINF:-1 tvg-id="ChinguitTV.mr@SD",Chinguit TV
+https://dvrfl06.bozztv.com/astv-chinguit/index.m3u8
+#EXTINF:-1 tvg-id="ElMedina.mr@SD",El Medina
+https://dvrfl06.bozztv.com/astv-elmedina/index.m3u8
+#EXTINF:-1 tvg-id="ElOussraTV.mr@SD",El Oussra TV
+https://dvrfl06.bozztv.com/astv-elousra/index.m3u8
 
 #EXTINF:-1 tvg-id="AsPistasdeBlue.us",Pluto TV As Pistas de Blue (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -219,6 +231,7 @@ http://www.pxitv.com:8099/hls-live/livepkgr/_definst_/pxitvevent/pxtv1stream.m3u
 
 #EXTINF:-1 tvg-id="30ARidiculousTV.us" tvg-logo="https://30a.media/wp-content/uploads/2023/08/pzaz-30atv-2-230x366-ridiculous.jpg" group-title="Comedy",30A Ridiculous TV (720p)
 https://30a-tv.com/feeds/720p/63.m3u8
+
 
 
 
