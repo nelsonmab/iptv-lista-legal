@@ -1,3 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn5" tvg-logo="https://embedtv.digital/assets/images/espn5.png" group-title="Esportes",ESPN 5
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/0afbe5f3fe37b38ba60aa62852a972ab.m3u8
+
+#EXTINF:-1 tvg-id="pt_sportv5" tvg-logo="https://embedtv.digital/assets/images/sportv.png" group-title="Esportes",SporTV 5
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/ad404a49923aaf1a3cefb5012a2ab8c6.m3u8
+
+#EXTINF:-1 tvg-id="pt_sportv5_alt" tvg-logo="https://embedtv.digital/assets/images/sportv.png" group-title="Esportes",SporTV 5 (Alternativo)
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/03ddc39f383c116673117e154a620e84.m3u8
+
+#EXTINF:-1 tvg-id="premiere" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="Esportes",Premiere
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/27f9b9c8ae1aa0c1728b1a527eb8b1c0.m3u8
+
+#EXTINF:-1 tvg-id="disneyplus1" tvg-logo="https://embedtv.digital/assets/images/disneyplus.png" group-title="Filmes & Séries",Disney+ 1
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/9e2fd6587393b1830758932df0374f9d.m3u8
+
+#EXTINF:-1 tvg-id="disneyplus3" tvg-logo="https://embedtv.digital/assets/images/disneyplus.png" group-title="Filmes & Séries",Disney+ 3
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/561aff4b171723e94f9e016d5ae2b9ff.m3u8
+
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://embedtv.digital/assets/images/espn2.png" group-title="Esportes",ESPN 2
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/468dfbeda723df0252548d14027ad983.m3u8
+
