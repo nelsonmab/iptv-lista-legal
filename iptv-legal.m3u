@@ -2,6 +2,10 @@
 # EXTINF : -1  tvg-id = " "  tvg-name = " BigBrotherBrasil 2018 "  tvg-logo = " http://bbb2018.net/wp-content/uploads/2017/08/bbb-2018.png "  group-title = " VARIEDADES " , BigBrotherBrasil 2018
 http://painel.iptvmove.com:25461/live/danga07/1963/1116.m3u8
 
+# EXTINF : -1  tvg-id = " "  tvg-name = " ESPN5 "  tvg-logo = "  "  group-title = " VARIEDADES " , ESPN5
+
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/0afbe5f3fe37b38ba60aa62852a972ab.m3u8
+
 #EXTINF:-1 tvg-id="cinemax" tvg-logo="https://embedtv.digital/assets/images/cinemax.png", Cinemax
 https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/2cf054ed54f673332da76ff0f5102c52.m3u8
 
@@ -89,6 +93,7 @@ http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7565
 
 #EXTINF:-1 tvg-id="" tvg-name="Harry Potter" tvg-logo="http://listaccess.me/Logo/HarryPotter.png" group-title="Filmes: Fantasia",Harry Potter
 http://sspitv.liss.fun:8880/BnuS4tHHLH/481520305/7566
+
 
 
 
