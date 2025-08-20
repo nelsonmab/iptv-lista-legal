@@ -1,4 +1,77 @@
 #EXTM3U
+#EXTM3U
+
+# Canal AE
+#EXTINF:-1 tvg-id="ae" tvg-logo="https://embedtv.digital/assets/images/ae.png" group-title="Canais",AE
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/8f3bbdfef829b85785ad50dd2af4aee5.m3u8
+
+# Canal Animal Planet
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://embedtv.digital/assets/images/animalplanet.png" group-title="Canais",Animal Planet
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/90e814c6841e0cc03d96b1784ab365d4.m3u8
+
+# Canal Caze1
+#EXTINF:-1 tvg-id="caze1" tvg-logo="https://embedtv.digital/assets/images/cazetv.png" group-title="Canais",Caze1
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/fefc9046ff8590f8c1e37ca64313e080.m3u8
+
+# Canal BandSports
+#EXTINF:-1 tvg-id="bandsports" tvg-logo="https://embedtv.digital/assets/images/bandsports.png" group-title="Canais",BandSports
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/2fa8e0cb6f7a286286cf428f6c25fae0.m3u8
+
+# Canal Combate
+#EXTINF:-1 tvg-id="combate" tvg-logo="https://embedtv.digital/assets/images/combate.png" group-title="Canais",Combate
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/a6b432ad39fa30620ce2bd4a56824ec7.m3u8
+
+# Canal Disney+
+#EXTINF:-1 tvg-id="disneyplus1" tvg-logo="https://embedtv.digital/assets/images/disneyplus.png" group-title="Canais",Disney+
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/f9115d9bc03a4b3f15a2f7fda6388bfe.m3u8
+
+# Canal ESPN
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://embedtv.digital/assets/images/espn.png" group-title="Canais",ESPN
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7b795988826712ac8a15a8fb48e6fec8.m3u8
+
+# Canal ESPN2
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://embedtv.digital/assets/images/espn2.png" group-title="Canais",ESPN2
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/dda4010badceb0839408006b747fca52.m3u8
+
+# Canal ESPN3
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://embedtv.digital/assets/images/espn3.png" group-title="Canais",ESPN3
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/7b4fb29162f06882ae1f58a72f676a5a.m3u8
+
+# Canal ESPN4
+#EXTINF:-1 tvg-id="espn4" tvg-logo="https://embedtv.digital/assets/images/espn4.png" group-title="Canais",ESPN4
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/e1a622db8deccbba4b3c0317937a05c4.m3u8
+
+# Canal ESPN5
+#EXTINF:-1 tvg-id="espn5" tvg-logo="https://embedtv.digital/assets/images/espn5.png" group-title="Canais",ESPN5
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/e7461208c73f9c5824f9b646d8fad2cb.m3u8
+
+# Canal ESPN6
+#EXTINF:-1 tvg-id="espn6" tvg-logo="https://embedtv.digital/assets/images/espn6.png" group-title="Canais",ESPN6
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/cfd8f7d99f7d60cee01fcf7d53701a3a.m3u8
+
+# Canal Globo SP
+#EXTINF:-1 tvg-id="globosp" tvg-logo="https://embedtv.digital/assets/images/globosp.png" group-title="Canais",Globo SP
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/8a26fca40877e69f9c3bc619a1d9ed34.m3u8
+
+# Canal Globo RJ
+#EXTINF:-1 tvg-id="globorj" tvg-logo="https://embedtv.digital/assets/images/globorj.png" group-title="Canais",Globo RJ
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/15f4d57f08c6ce45206107bf3aaf5aab.m3u8
+
+# Canal Premiere
+#EXTINF:-1 tvg-id="premiere" tvg-logo="https://embedtv.digital/assets/images/premiere.png" group-title="Canais",Premiere
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/f77ffc45719568a9f39304e3400df56a.m3u8
+
+# Canal Sportv
+#EXTINF:-1 tvg-id="sportv" tvg-logo="https://embedtv.digital/assets/images/sportv.png" group-title="Canais",Sportv
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/db26f3684fa072a4e76cd8f132abaa17.m3u8
+
+# Canal Sportv2
+#EXTINF:-1 tvg-id="sportv2" tvg-logo="https://embedtv.digital/assets/images/sportv2.png" group-title="Canais",Sportv2
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/4bd89dd61664daa907749c9d1eb8c294.m3u8
+
+# Canal Paramount+
+#EXTINF:-1 tvg-id="paramountplus" tvg-logo="https://embedtv.digital/assets/images/paramountplus.png" group-title="Canais",Paramount+
+https://cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online/secret_key/f0dc00e9d761ed238df59ca9dc341868.m3u8
 
 
 ############################################################################ Canais | ABERTO
@@ -4713,5 +4786,6 @@ http://flash.softhost.com.br:1935/serradourada/tvserradourada/playlist.m3u8?PEDR
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band HD
 http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Band Rede [Brazil]"
+
 
 
