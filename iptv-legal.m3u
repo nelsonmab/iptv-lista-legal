@@ -23,6 +23,14 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Inception_ver3.jpg" group-title="Filmes", Inception – Legendado
 https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Inception_ver3.jpg" group-title="Filmes", Inception – Legendado
+https://test-streams.mux.dev/test_001/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/The_Godfather_ver1.jpg" group-title="Filmes", The Godfather – Legendado
+https://test-streams.mux.dev/test_002/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/ESPN_logo.svg" group-title="Canais", ESPN Brasil
+http://iptv.example.com/espn.m3u8
 
 # Canal AE
 #EXTINF:-1 tvg-id="ae" tvg-logo="https://embedtv.digital/assets/images/ae.png" group-title="Canais",AE
@@ -4816,6 +4824,7 @@ http://flash.softhost.com.br:1935/serradourada/tvserradourada/playlist.m3u8?PEDR
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band HD
 http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Band Rede [Brazil]"
+
 
 
 
