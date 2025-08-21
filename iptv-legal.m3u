@@ -1,5 +1,19 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://videoaulas.infra.grancursosonline.com.br/logo.png" group-title="Videoaulas", Aula 1 – Introdução
+https://videoaulas.infra.grancursosonline.com.br/564afe295161b94c3dcc76ab8ec071b3/26e67cb74477c6318a4ca0ea602bf60f/26e67cb74477c6318a4ca0ea602bf60f-p480.mp4?Expires=1755821145&Signature=ZmVEvckY-Hqkv7oycbWI6wtQflD-NDmiuq6m4L1YuhaG4IWQI7999aKGKQHB249q17J~tSuK6QeVKcinKcQ8p3td3xtVKx40K~X6deMezwNRVKM8ryOz1G4e9KT0coLMiiepfVbiJj3GpHQbnkI58JWzcPnxz7cXQ5hLf9wSaUhYONlPvTHgAXMNYl9qCqkq1Vpb4KGCh9gLJqOxPSLzewdtyMbyO9wpliWv1aVjzEujKPDJfz4POL~XH1qRAaCEmARd3e4f7VVDz55PIigPmOfc-O5XJmJ0kQ8tfJsJzJIrekvETJ0O~VdEW~s-aoNvNVYb48PR4pSNmqVcQ4pmow__&Key-Pair-Id=APKAJWDRH5QWMLF2KNSA
+
+#EXTINF:-1 tvg-logo="https://videoaulas.infra.grancursosonline.com.br/logo.png" group-title="Videoaulas", Aula 2 – Conceitos Básicos
+https://videoaulas.infra.grancursosonline.com.br/564afe295161b94c3dcc76ab8ec071b3/another-video.mp4
+
+#EXTINF:-1 tvg-logo="https://videoaulas.infra.grancursosonline.com.br/logo.png" group-title="Videoaulas", Aula 3 – Exercícios Práticos
+https://videoaulas.infra.grancursosonline.com.br/564afe295161b94c3dcc76ab8ec071b3/yet-another-video.mp4
+
+# ################### Filmes de Teste ####################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Avatar-Teaser-Poster.jpg" group-title="Filmes", Avatar – Dublado
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Inception_ver3.jpg" group-title="Filmes", Inception – Legendado
+https://test-streams.mux.dev/test_001/stream.m3u8
 
 # Canal AE
 #EXTINF:-1 tvg-id="ae" tvg-logo="https://embedtv.digital/assets/images/ae.png" group-title="Canais",AE
@@ -4786,6 +4800,7 @@ http://flash.softhost.com.br:1935/serradourada/tvserradourada/playlist.m3u8?PEDR
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band HD
 http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Band Rede [Brazil]"
+
 
 
 
