@@ -1,16 +1,9 @@
 #EXTM3U
-#EXTINF:-1, YouTube Live 1080p (MP4)
-https://rr1---sn-2gboxucg-h5ce.googlevideo.com/videoplayback?expire=1755757963&ei=K2mmaMqrJduZobIPwoXNgQY&ip=170.233.151.154&id=57APihh1cuo.1&itag=137&source=yt_live_broadcast&requiressl=yes
-
-#EXTINF:-1, YouTube Live 1080p (WEBM)
-https://rr1---sn-2gboxucg-h5ce.googlevideo.com/videoplayback?expire=1755757963&ei=K2mmaMqrJduZobIPwoXNgQY&ip=170.233.151.154&id=57APihh1cuo.1&itag=248&source=yt_live_broadcast&requiressl=yes
-
-#EXTINF:-1, YouTube Live 720p (MP4)
-https://rr1---sn-2gboxucg-h5ce.googlevideo.com/videoplayback?expire=1755757963&ei=K2mmaMqrJduZobIPwoXNgQY&ip=170.233.151.154&id=57APihh1cuo.1&itag=136&source=yt_live_broadcast&requiressl=yes
 
 #EXTINF:-1, YouTube Live 720p (WEBM)
 https://rr1---sn-2gboxucg-h5ce.googlevideo.com/videoplayback?expire=1755757963&ei=K2mmaMqrJduZobIPwoXNgQY&ip=170.233.151.154&id=57APihh1cuo.1&itag=247&source=yt_live_broadcast&requiressl=yes
-
+#EXTINF:-1,Meu Vídeo YouTube
+https://www.youtube.com/watch?v=ew0Ppe-Z26I
 
 #EXTINF:-1,Gran Cursos Online - Aula Exemplo
 https://videoaulas.infra.grancursosonline.com.br/564afe295161b94c3dcc76ab8ec071b3/abf3e9a8171123930566c30cfe5e97be/abf3e9a8171123930566c30cfe5e97be-p480.mp4?Expires=1755822531&Signature=Xgrobbgr7eQJkm-qFM08pbvi4U8ym~XQ1yMjkrAQAoxo4orVJoYhSLfCaEODKgrVlu15DPcwg~spPW6xNWrIgmtSnaAiCJEI-sAfZY3IQQlx9nCZ7hRb2ppqqFocgP72HBlZika-eeGZehf1DQhVRLI8NJT4C9wXj1P6FRtxL8ww47FVOesu-67MfKZhOugO3q8F3ngmV3d~NycKmzmYjemdQMrGVYFoP9oo22HUq2Ei~njaVm3AVimw-rR8lD812GtjIdtPlgOgvsX2wvOyqC5aXlXQXuwITabVkrojzTzark3SHJy9hj62mvk5SbX09DqTJnRvOQotJzijl4IMHA__&Key-Pair-Id=APKAJWDRH5QWMLF2KNSA
@@ -4816,6 +4809,7 @@ http://flash.softhost.com.br:1935/serradourada/tvserradourada/playlist.m3u8?PEDR
 #EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",Band HD
 http://107.182.231.88:1935/liverepeater/ch22-1/playlist.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Band Rede [Brazil]"
+
 
 
 
